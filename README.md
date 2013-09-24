@@ -1,4 +1,4 @@
 personal-sublime-packages
 =========================
 
-personal sublime packages
+just some personal sublime things
